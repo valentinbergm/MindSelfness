@@ -80,7 +80,7 @@ C. **Channel Health Monitoring:** Continuously monitor the performance and cost-
 
 **Observation:** The application's overall user retention curve follows a common pattern: a **steep drop-off in user retention after Day 1**, indicating that a significant portion of new users do not return immediately after their initial experience. Following this initial churn, the decline in retention becomes more gradual over subsequent days/weeks/months, suggesting a core group of users finds value and continues to engage.
 
-**Visual Aid 6:** (Screenshot of "User Retention Rate by Registration Cohort" heatmap from Power BI)
+**Visual Aid 3:** (Screenshot of "User Retention Rate by Registration Cohort" heatmap from Power BI)
 
 
 ![image](https://github.com/user-attachments/assets/fcaadb24-d023-40bd-825c-33afdf61af1e)
@@ -98,12 +98,12 @@ C. **Identify Drop-off Triggers:** Analyze user behavior leading up to the Day 1
 
 **Observation:** The analysis of monthly retention rates across various registration cohorts reveals a discernible pattern: **Older users (45+) and male users consistently tend to achieve higher retention percentages** compared to their younger or female/other counterparts. While month-to-month fluctuations exist for all groups, the scatter plots visually demonstrate that data points for these segments are generally positioned higher on the retention rate scale. This indicates that, on a monthly basis, these groups exhibit a more robust user engagement.
 
-**Visual Aid 8.1:** (Screenshot of "Retention by Gender" scatter plot from Power BI/Tableau)
+**Visual Aid 4.1:** (Screenshot of "Retention by Gender" scatter plot from Power BI/Tableau)
 
 
 ![image](https://github.com/user-attachments/assets/ebc999b2-c597-4aca-a889-fae4d783ea25)
 
-**Visual Aid 8.2:** (Screenshot of "Retention by Age Group" scatter plot from Power BI/Tableau)
+**Visual Aid 4.2:** (Screenshot of "Retention by Age Group" scatter plot from Power BI/Tableau)
 
 ![image](https://github.com/user-attachments/assets/ad6f7ae1-c4cb-4805-9d43-4ba3ba9e59c0)
 
@@ -120,12 +120,12 @@ C. **Continuous Monitoring:** Regularly monitor these segment-specific monthly r
 
 **Observation:** The application experiences consistent monthly premium conversions, typically ranging from **650 to 800 per month**, reflecting a steady influx of new paying users. Concurrently, there are significant monthly volumes of subscription renewals and cancellations. On visualization, **subscription renewals and cancellations show a notable visual interdependence: peaks and troughs in renewals often coincide with or are closely followed by similar movements in cancellations.** This strong visual correlation suggests that the factors influencing users' decision to continue or discontinue their subscription are closely linked, indicating a dynamic and highly sensitive stage of the user lifecycle for monetization.
 
-**Visual Aid 9.1:** (Screenshot of "Monthly Premium Conversions" chart from Power BI/Tableau)
+**Visual Aid 5.1:** (Screenshot of "Monthly Premium Conversions" chart from Power BI/Tableau)
 
 
 ![image](https://github.com/user-attachments/assets/c6903429-f374-4d34-bd88-634f4e68ef6e)
 
-**Visual Aid 9.2:** (Screenshot of "Monthly Subscription Changes: Renewals vs Cancellations" chart from Power BI/Tableau)
+**Visual Aid 5.2:** (Screenshot of "Monthly Subscription Changes: Renewals vs Cancellations" chart from Power BI/Tableau)
 
 
 ![image](https://github.com/user-attachments/assets/df30da68-9a1b-4047-ab14-5a67fd714f2f)
@@ -143,11 +143,11 @@ C. **Continuous Monitoring & Predictive Analytics:** Regularly monitor all three
 
 **Observation:** Analysis of premium conversion rates across different demographic segments reveals distinct patterns. **Users in the 18-24 and 25-34 age groups show the highest premium conversion rates**, indicating that younger adult demographics are most receptive to paid features. Additionally, the **'Other' gender category exhibits a significantly higher premium conversion rate** compared to Male and Female users.
 
-**Visual Aid 11.1:** (Screenshot of "Premium Conversion by Gender" chart from Power BI/Tableau)
+**Visual Aid 6.1:** (Screenshot of "Premium Conversion by Gender" chart from Power BI/Tableau)
 ![image](https://github.com/user-attachments/assets/436035a0-4f4e-4c07-bf60-a4a557316639)
 
 
-**Visual Aid 11.2:** (Screenshot of "Premium Conversion by Age Group" chart from Power BI/Tableau)
+**Visual Aid 6.2:** (Screenshot of "Premium Conversion by Age Group" chart from Power BI/Tableau)
 
 ![image](https://github.com/user-attachments/assets/0f1663c1-9547-4829-bf2c-c270ef0da116)
 
