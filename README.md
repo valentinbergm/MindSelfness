@@ -65,6 +65,7 @@ C. **Forecast Growth:** Use historical registration data, particularly patterns 
 **Visual Aid 2:** (Screenshot of "User Acquisition by Channel" treemap from Power BI/Tableau)
 
 ![User Acquisition by Channel](image_225cbe.png)
+![image](https://github.com/user-attachments/assets/1e7808a7-368a-47d4-9414-b79c9e8005cc)
 
 **Business Impact:** Concentrating acquisition efforts on the most effective channels (Organic and Paid Ads) ensures efficient allocation of marketing resources. However, over-reliance on a few channels could pose a risk if market dynamics shift or competition intensifies within those channels. Diversification may be considered for long-term stability.
 
@@ -79,9 +80,10 @@ C. **Channel Health Monitoring:** Continuously monitor the performance and cost-
 
 **Observation:** The application's overall user retention curve follows a common pattern: a **steep drop-off in user retention after Day 1**, indicating that a significant portion of new users do not return immediately after their initial experience. Following this initial churn, the decline in retention becomes more gradual over subsequent days/weeks/months, suggesting a core group of users finds value and continues to engage.
 
-**Visual Aid 6:** (Screenshot of "User Retention Rate by Registration Cohort" heatmap from Power BI/Tableau)
+**Visual Aid 6:** (Screenshot of "User Retention Rate by Registration Cohort" heatmap from Power BI)
 
-![Overall Retention Curve](image_225cc2.jpg)
+
+![image](https://github.com/user-attachments/assets/fcaadb24-d023-40bd-825c-33afdf61af1e)
 
 **Business Impact:** The initial sharp drop-off represents a critical leakage point in the user funnel. Improving Day 1 retention has the most significant potential to positively impact long-term user base growth and overall lifetime value. Converting a higher percentage of initial users into retained users is more cost-effective than acquiring new ones.
 
@@ -98,11 +100,12 @@ C. **Identify Drop-off Triggers:** Analyze user behavior leading up to the Day 1
 
 **Visual Aid 8.1:** (Screenshot of "Retention by Gender" scatter plot from Power BI/Tableau)
 
-![Retention by Gender](image_226806.png)
+
+![image](https://github.com/user-attachments/assets/ebc999b2-c597-4aca-a889-fae4d783ea25)
 
 **Visual Aid 8.2:** (Screenshot of "Retention by Age Group" scatter plot from Power BI/Tableau)
 
-![Retention by Age Group](image_226820.png)
+![image](https://github.com/user-attachments/assets/ad6f7ae1-c4cb-4805-9d43-4ba3ba9e59c0)
 
 **Business Impact:** Identifying user segments with consistently higher monthly retention rates (like older users and males) allows for targeted resource allocation. Understanding which groups naturally retain better can inform marketing, product development, and user engagement strategies, focusing efforts on either nurturing these high-retention segments or addressing specific challenges within lower-retention groups.
 
