@@ -142,12 +142,12 @@ C. **Continuous Monitoring & Predictive Analytics:** Regularly monitor all three
 **Observation:** Analysis of premium conversion rates across different demographic segments reveals distinct patterns. **Users in the 18-24 and 25-34 age groups show the highest premium conversion rates**, indicating that younger adult demographics are most receptive to paid features. Additionally, the **'Other' gender category exhibits a significantly higher premium conversion rate** compared to Male and Female users.
 
 **Visual Aid 11.1:** (Screenshot of "Premium Conversion by Gender" chart from Power BI/Tableau)
+![image](https://github.com/user-attachments/assets/436035a0-4f4e-4c07-bf60-a4a557316639)
 
-![Premium Conversion by Gender](image_226ba1.png)
 
 **Visual Aid 11.2:** (Screenshot of "Premium Conversion by Age Group" chart from Power BI/Tableau)
 
-![Premium Conversion by Age Group](image_226ba8.png)
+![image](https://github.com/user-attachments/assets/0f1663c1-9547-4829-bf2c-c270ef0da116)
 
 **Business Impact:** These insights provide clear guidance for targeted marketing and product development efforts. Focusing premium feature promotion on high-converting demographics can maximize ROI from marketing spend and optimize in-app upsell strategies. Understanding the unique appeal to the 'Other' gender category is a significant opportunity.
 
