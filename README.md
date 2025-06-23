@@ -45,6 +45,7 @@ This section presents key analytical insights supported by relevant data visuali
 **Observation:** The application demonstrates consistent month-over-month growth in new user registrations. Notably, significant peaks were observed in **May 2023, October 2023, and July 2024**, indicating successful acquisition campaigns or seasonal trends during these periods. This steady growth is crucial for the continuous expansion of the user base.
 
 **Visual Aid 1:** (Screenshot of "Monthly Registrations" chart from Power BI/Tableau)
+![image](https://github.com/user-attachments/assets/553b2342-02dc-44aa-b385-7773961f52e0)
 
 ![Monthly Registrations](image_225ca3.png)
 
