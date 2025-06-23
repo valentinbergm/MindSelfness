@@ -122,11 +122,13 @@ C. **Continuous Monitoring:** Regularly monitor these segment-specific monthly r
 
 **Visual Aid 9.1:** (Screenshot of "Monthly Premium Conversions" chart from Power BI/Tableau)
 
-![Monthly Premium Conversions](image_225ce3.png)
+
+![image](https://github.com/user-attachments/assets/c6903429-f374-4d34-bd88-634f4e68ef6e)
 
 **Visual Aid 9.2:** (Screenshot of "Monthly Subscription Changes: Renewals vs Cancellations" chart from Power BI/Tableau)
 
-![Monthly Subscription Changes](image_225cfd.png)
+
+![image](https://github.com/user-attachments/assets/df30da68-9a1b-4047-ab14-5a67fd714f2f)
 
 **Business Impact:** Understanding the individual trends of new conversions, as well as the tightly linked dynamics of renewals and cancellations, is vital for optimizing monetization strategies. The strong visual correlation between renewals and cancellations suggests that efforts to boost renewals or improve subscriber satisfaction in a given month could have a direct, almost immediate, impact on reducing cancellations. This reinforces the need for robust, proactive retention strategies that closely monitor the post-renewal experience.
 
