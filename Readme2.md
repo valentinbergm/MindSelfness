@@ -45,6 +45,7 @@ This section presents key analytical insights supported by relevant data visuali
 **Observation:** The application demonstrates consistent month-over-month growth in new user registrations. Notably, significant peaks were observed in **May 2023, October 2023, and July 2024**, indicating successful acquisition campaigns or seasonal trends during these periods. This steady growth is crucial for the continuous expansion of the user base.
 
 **Visual Aid 1:** (Screenshot of "Monthly Registrations" chart from Power BI/Tableau)
+![image](https://github.com/user-attachments/assets/81b1459f-e650-4cc8-973b-d74cd107e4b1)
 
 **Business Impact:** Sustained growth in registrations ensures a healthy pipeline of potential active and monetized users. Understanding the drivers behind peak registration months (e.g., specific marketing campaigns, app store features, seasonal events) can help in replicating success and optimizing future acquisition efforts.
 
@@ -60,6 +61,7 @@ C. **Forecast Growth:** Use historical registration data, particularly patterns 
 **Observation:** The analysis of user acquisition channels confirms that **Organic and Paid Ads are the primary drivers of new user growth**, collectively contributing to almost **80%** of all registrations. Referral and Social Media channels, while present, play a significantly smaller role in the overall acquisition mix.
 
 **Visual Aid 2:** (Screenshot of "User Acquisition by Channel" treemap from Power BI/Tableau)
+![image](https://github.com/user-attachments/assets/de553b36-4b5b-4f57-aa68-2fe4bc8bdb33)
 
 **Business Impact:** Concentrating acquisition efforts on the most effective channels (Organic and Paid Ads) ensures efficient allocation of marketing resources. However, over-reliance on a few channels could pose a risk if market dynamics shift or competition intensifies within those channels. Diversification may be considered for long-term stability.
 
@@ -75,6 +77,7 @@ C. **Channel Health Monitoring:** Continuously monitor the performance and cost-
 **Observation:** The application's overall user retention curve follows a common pattern: a **steep drop-off in user retention after Day 1**, indicating that a significant portion of new users do not return immediately after their initial experience. Following this initial churn, the decline in retention becomes more gradual over subsequent days/weeks/months, suggesting a core group of users finds value and continues to engage.
 
 **Visual Aid 3:** (Screenshot of "User Retention Rate by Registration Cohort" heatmap from Power BI)
+![image](https://github.com/user-attachments/assets/47306e55-ec49-4810-82ee-fb6525cc22fb)
 
 **Business Impact:** The initial sharp drop-off represents a critical leakage point in the user funnel. Improving Day 1 retention has the most significant potential to positively impact long-term user base growth and overall lifetime value. Converting a higher percentage of initial users into retained users is more cost-effective than acquiring new ones.
 
@@ -90,8 +93,10 @@ C. **Identify Drop-off Triggers:** Analyze user behavior leading up to the Day 1
 **Observation:** The analysis of monthly retention rates across various registration cohorts reveals a discernible pattern: **Older users (45+) and male users consistently tend to achieve higher retention percentages** compared to their younger or female/other counterparts. While month-to-month fluctuations exist for all groups, the scatter plots visually demonstrate that data points for these segments are generally positioned higher on the retention rate scale. This indicates that, on a monthly basis, these groups exhibit a more robust user engagement.
 
 **Visual Aid 4.1:** (Screenshot of "Retention by Gender" scatter plot from Power BI/Tableau)
+![image](https://github.com/user-attachments/assets/fc4ec1b5-cf26-4450-9ad3-331a4d913486)
 
 **Visual Aid 4.2:** (Screenshot of "Retention by Age Group" scatter plot from Power BI/Tableau)
+![image](https://github.com/user-attachments/assets/bac6a0b8-5a56-4a12-ac06-09dc41544f70)
 
 **Business Impact:** Identifying user segments with consistently higher monthly retention rates (like older users and males) allows for targeted resource allocation. Understanding which groups naturally retain better can inform marketing, product development, and user engagement strategies, focusing efforts on either nurturing these high-retention segments or addressing specific challenges within lower-retention groups.
 
@@ -106,9 +111,11 @@ C. **Continuous Monitoring:** Regularly monitor these segment-specific monthly r
 
 **Observation:** The application experiences consistent monthly premium conversions, typically ranging from **650 to 800 per month**, reflecting a steady influx of new paying users. Concurrently, there are significant monthly volumes of subscription renewals and cancellations. On visualization, **subscription renewals and cancellations show a notable visual interdependence: peaks and troughs in renewals often coincide with or are closely followed by similar movements in cancellations.** This strong visual correlation suggests that the factors influencing users' decision to continue or discontinue their subscription are closely linked, indicating a dynamic and highly sensitive stage of the user lifecycle for monetization.
 
-**Visual Aid 5.1:** (Screenshot of "Monthly Premium Conversions" chart from Power BI/Tableau)
+**Visual Aid 5.1:** (Screenshot of "Monthly Premium Conversions" chart from Power BI)
+![image](https://github.com/user-attachments/assets/fbd396b9-0c6b-471b-b130-06198e4b0cff)
 
-**Visual Aid 5.2:** (Screenshot of "Monthly Subscription Changes: Renewals vs Cancellations" chart from Power BI/Tableau)
+**Visual Aid 5.2:** (Screenshot of "Monthly Subscription Changes: Renewals vs Cancellations" chart from Power BI)
+![image](https://github.com/user-attachments/assets/46703e48-15c2-4387-bf34-17c8f4a643d3)
 
 **Business Impact:** Understanding the individual trends of new conversions, as well as the tightly linked dynamics of renewals and cancellations, is vital for optimizing monetization strategies. The strong visual correlation between renewals and cancellations suggests that efforts to boost renewals or improve subscriber satisfaction in a given month could have a direct, almost immediate, impact on reducing cancellations. This reinforces the need for robust, proactive retention strategies that closely monitor the post-renewal experience.
 
@@ -123,9 +130,12 @@ C. **Continuous Monitoring & Predictive Analytics:** Regularly monitor all three
 
 **Observation:** Analysis of premium conversion rates across different demographic segments reveals distinct patterns. **Users in the 18-24 and 25-34 age groups show the highest premium conversion rates**, indicating that younger adult demographics are most receptive to paid features. Additionally, the **'Other' gender category exhibits a significantly higher premium conversion rate** compared to Male and Female users.
 
-**Visual Aid 6.1:** (Screenshot of "Premium Conversion by Gender" chart from Power BI/Tableau)
+**Visual Aid 6.1:** (Screenshot of "Premium Conversion by Gender" chart from Power BI)
+![image](https://github.com/user-attachments/assets/afe49e50-80d3-4303-b4d4-7c70a0a1f540)
 
-**Visual Aid 6.2:** (Screenshot of "Premium Conversion by Age Group" chart from Power BI/Tableau)
+
+**Visual Aid 6.2:** (Screenshot of "Premium Conversion by Age Group" chart from Power BI)
+![image](https://github.com/user-attachments/assets/f717dd5a-b9ee-4bf6-b03d-789abff084e4)
 
 **Business Impact:** These insights provide clear guidance for targeted marketing and product development efforts. Focusing premium feature promotion on high-converting demographics can maximize ROI from marketing spend and optimize in-app upsell strategies. Understanding the unique appeal to the 'Other' gender category is a significant opportunity.
 
@@ -139,8 +149,8 @@ D. **Re-evaluate Lower-Converting Segments:** Analyze reasons for lower conversi
 
 ## 5\. Tools & Technologies
 
-  * **Data Analysis & Transformation:** Python (Pandas, NumPy) / SQL
-  * **Data Visualization & Dashboarding:** Power BI / Tableau
+  * **Data Analysis & Transformation:** ) Excel / SQL
+  * **Data Visualization & Dashboarding:** Power BI / 
   * **Version Control:** Git / GitHub
 
 ## 6\. Conclusion & Recommendations
