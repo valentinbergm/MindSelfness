@@ -8,6 +8,9 @@ This report provides a comprehensive analysis of user behavior and monetization 
 
 The analysis is based on three primary datasets:
 
+![image](https://github.com/user-attachments/assets/0cacc80f-6735-43b0-9862-60e9f5e7bc8c)
+
+
   * **`users.csv`**: Contains information about registered users.
       * **Number of Records:** 350,000
       * **Key Columns:** `user_id`, `registration_date`, `gender`, `age_group`, `acquisition_channel`.
