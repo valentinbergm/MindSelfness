@@ -45,7 +45,8 @@ This section presents key analytical insights supported by relevant data visuali
 **Observation:** The application demonstrates consistent month-over-month growth in new user registrations. Notably, significant peaks were observed in **May 2023, October 2023, and July 2024**, indicating successful acquisition campaigns or seasonal trends during these periods. This steady growth is crucial for the continuous expansion of the user base.
 
 **Visual Aid 1:** (Screenshot of "Monthly Registrations" chart from Power BI/Tableau)
-![image](https://github.com/user-attachments/assets/81b1459f-e650-4cc8-973b-d74cd107e4b1)
+![image](https://github.com/user-attachments/assets/d38bb9a8-0c25-489f-9e83-702fb862f0fe)
+
 
 **Business Impact:** Sustained growth in registrations ensures a healthy pipeline of potential active and monetized users. Understanding the drivers behind peak registration months (e.g., specific marketing campaigns, app store features, seasonal events) can help in replicating success and optimizing future acquisition efforts.
 
