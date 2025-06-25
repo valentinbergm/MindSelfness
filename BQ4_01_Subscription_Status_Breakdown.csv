@@ -1,0 +1,237 @@
+acquisition_channel,age_group,gender,subscription_status,users_count
+Organic,,,Premium,20
+Organic,,Female,Premium,158
+Organic,,Male,Premium,125
+Organic,,Other,Premium,16
+Organic,18-24,,Premium,47
+Organic,18-24,Female,Premium,630
+Organic,18-24,Male,Premium,447
+Organic,18-24,Other,Premium,46
+Organic,25-34,,Premium,62
+Organic,25-34,Female,Premium,687
+Organic,25-34,Male,Premium,550
+Organic,25-34,Other,Premium,67
+Organic,35-44,,Premium,46
+Organic,35-44,Female,Premium,540
+Organic,35-44,Male,Premium,420
+Organic,35-44,Other,Premium,65
+Organic,45+,,Premium,40
+Organic,45+,Female,Premium,475
+Organic,45+,Male,Premium,328
+Organic,45+,Other,Premium,42
+Paid Ad,,,Premium,16
+Paid Ad,,Female,Premium,127
+Paid Ad,,Male,Premium,100
+Paid Ad,,Other,Premium,12
+Paid Ad,18-24,,Premium,39
+Paid Ad,18-24,Female,Premium,464
+Paid Ad,18-24,Male,Premium,339
+Paid Ad,18-24,Other,Premium,54
+Paid Ad,25-34,,Premium,49
+Paid Ad,25-34,Female,Premium,517
+Paid Ad,25-34,Male,Premium,399
+Paid Ad,25-34,Other,Premium,50
+Paid Ad,35-44,,Premium,39
+Paid Ad,35-44,Female,Premium,424
+Paid Ad,35-44,Male,Premium,321
+Paid Ad,35-44,Other,Premium,42
+Paid Ad,45+,,Premium,37
+Paid Ad,45+,Female,Premium,337
+Paid Ad,45+,Male,Premium,263
+Paid Ad,45+,Other,Premium,33
+Referral,,,Premium,1
+Referral,,Female,Premium,18
+Referral,,Male,Premium,21
+Referral,,Other,Premium,4
+Referral,18-24,,Premium,1
+Referral,18-24,Female,Premium,68
+Referral,18-24,Male,Premium,36
+Referral,18-24,Other,Premium,4
+Referral,25-34,,Premium,7
+Referral,25-34,Female,Premium,81
+Referral,25-34,Male,Premium,74
+Referral,25-34,Other,Premium,4
+Referral,35-44,,Premium,5
+Referral,35-44,Female,Premium,61
+Referral,35-44,Male,Premium,28
+Referral,35-44,Other,Premium,4
+Referral,45+,,Premium,2
+Referral,45+,Female,Premium,56
+Referral,45+,Male,Premium,32
+Referral,45+,Other,Premium,5
+Social Media,,,Premium,5
+Social Media,,Female,Premium,55
+Social Media,,Male,Premium,41
+Social Media,,Other,Premium,3
+Social Media,18-24,,Premium,20
+Social Media,18-24,Female,Premium,204
+Social Media,18-24,Male,Premium,130
+Social Media,18-24,Other,Premium,25
+Social Media,25-34,,Premium,19
+Social Media,25-34,Female,Premium,223
+Social Media,25-34,Male,Premium,165
+Social Media,25-34,Other,Premium,28
+Social Media,35-44,,Premium,14
+Social Media,35-44,Female,Premium,195
+Social Media,35-44,Male,Premium,130
+Social Media,35-44,Other,Premium,22
+Social Media,45+,,Premium,13
+Social Media,45+,Female,Premium,174
+Social Media,45+,Male,Premium,101
+Social Media,45+,Other,Premium,9
+Organic,,,Free,30
+Organic,,Female,Free,349
+Organic,,Male,Free,221
+Organic,,Other,Free,26
+Organic,18-24,,Free,111
+Organic,18-24,Female,Free,1158
+Organic,18-24,Male,Free,796
+Organic,18-24,Other,Free,94
+Organic,25-34,,Free,128
+Organic,25-34,Female,Free,1387
+Organic,25-34,Male,Free,970
+Organic,25-34,Other,Free,122
+Organic,35-44,,Free,115
+Organic,35-44,Female,Free,1153
+Organic,35-44,Male,Free,831
+Organic,35-44,Other,Free,122
+Organic,45+,,Free,91
+Organic,45+,Female,Free,934
+Organic,45+,Male,Free,670
+Organic,45+,Other,Free,86
+Paid Ad,,,Free,27
+Paid Ad,,Female,Free,264
+Paid Ad,,Male,Free,177
+Paid Ad,,Other,Free,22
+Paid Ad,18-24,,Free,96
+Paid Ad,18-24,Female,Free,841
+Paid Ad,18-24,Male,Free,638
+Paid Ad,18-24,Other,Free,82
+Paid Ad,25-34,,Free,102
+Paid Ad,25-34,Female,Free,1083
+Paid Ad,25-34,Male,Free,743
+Paid Ad,25-34,Other,Free,104
+Paid Ad,35-44,,Free,85
+Paid Ad,35-44,Female,Free,948
+Paid Ad,35-44,Male,Free,603
+Paid Ad,35-44,Other,Free,74
+Paid Ad,45+,,Free,60
+Paid Ad,45+,Female,Free,750
+Paid Ad,45+,Male,Free,526
+Paid Ad,45+,Other,Free,64
+Referral,,Female,Free,53
+Referral,,Male,Free,29
+Referral,,Other,Free,3
+Referral,18-24,,Free,10
+Referral,18-24,Female,Free,139
+Referral,18-24,Male,Free,90
+Referral,18-24,Other,Free,9
+Referral,25-34,,Free,18
+Referral,25-34,Female,Free,159
+Referral,25-34,Male,Free,105
+Referral,25-34,Other,Free,9
+Referral,35-44,,Free,9
+Referral,35-44,Female,Free,130
+Referral,35-44,Male,Free,100
+Referral,35-44,Other,Free,13
+Referral,45+,,Free,12
+Referral,45+,Female,Free,121
+Referral,45+,Male,Free,81
+Referral,45+,Other,Free,5
+Social Media,,,Free,13
+Social Media,,Female,Free,117
+Social Media,,Male,Free,78
+Social Media,,Other,Free,10
+Social Media,18-24,,Free,37
+Social Media,18-24,Female,Free,407
+Social Media,18-24,Male,Free,285
+Social Media,18-24,Other,Free,33
+Social Media,25-34,,Free,44
+Social Media,25-34,Female,Free,485
+Social Media,25-34,Male,Free,325
+Social Media,25-34,Other,Free,43
+Social Media,35-44,,Free,49
+Social Media,35-44,Female,Free,381
+Social Media,35-44,Male,Free,273
+Social Media,35-44,Other,Free,45
+Social Media,45+,,Free,27
+Social Media,45+,Female,Free,302
+Social Media,45+,Male,Free,211
+Social Media,45+,Other,Free,28
+Organic,,,Trial,2
+Organic,,Female,Trial,56
+Organic,,Male,Trial,42
+Organic,,Other,Trial,6
+Organic,18-24,,Trial,14
+Organic,18-24,Female,Trial,191
+Organic,18-24,Male,Trial,121
+Organic,18-24,Other,Trial,15
+Organic,25-34,,Trial,15
+Organic,25-34,Female,Trial,242
+Organic,25-34,Male,Trial,165
+Organic,25-34,Other,Trial,20
+Organic,35-44,,Trial,9
+Organic,35-44,Female,Trial,186
+Organic,35-44,Male,Trial,146
+Organic,35-44,Other,Trial,20
+Organic,45+,,Trial,10
+Organic,45+,Female,Trial,146
+Organic,45+,Male,Trial,125
+Organic,45+,Other,Trial,17
+Paid Ad,,,Trial,2
+Paid Ad,,Female,Trial,50
+Paid Ad,,Male,Trial,31
+Paid Ad,,Other,Trial,1
+Paid Ad,18-24,,Trial,10
+Paid Ad,18-24,Female,Trial,153
+Paid Ad,18-24,Male,Trial,107
+Paid Ad,18-24,Other,Trial,14
+Paid Ad,25-34,,Trial,21
+Paid Ad,25-34,Female,Trial,180
+Paid Ad,25-34,Male,Trial,129
+Paid Ad,25-34,Other,Trial,18
+Paid Ad,35-44,,Trial,18
+Paid Ad,35-44,Female,Trial,159
+Paid Ad,35-44,Male,Trial,103
+Paid Ad,35-44,Other,Trial,20
+Paid Ad,45+,,Trial,12
+Paid Ad,45+,Female,Trial,113
+Paid Ad,45+,Male,Trial,92
+Paid Ad,45+,Other,Trial,7
+Referral,,,Trial,1
+Referral,,Female,Trial,11
+Referral,,Male,Trial,9
+Referral,18-24,,Trial,2
+Referral,18-24,Female,Trial,21
+Referral,18-24,Male,Trial,20
+Referral,25-34,,Trial,1
+Referral,25-34,Female,Trial,29
+Referral,25-34,Male,Trial,21
+Referral,25-34,Other,Trial,3
+Referral,35-44,,Trial,2
+Referral,35-44,Female,Trial,19
+Referral,35-44,Male,Trial,13
+Referral,45+,,Trial,1
+Referral,45+,Female,Trial,18
+Referral,45+,Male,Trial,13
+Referral,45+,Other,Trial,4
+Social Media,,,Trial,4
+Social Media,,Female,Trial,18
+Social Media,,Male,Trial,17
+Social Media,,Other,Trial,1
+Social Media,18-24,,Trial,4
+Social Media,18-24,Female,Trial,55
+Social Media,18-24,Male,Trial,33
+Social Media,18-24,Other,Trial,4
+Social Media,25-34,,Trial,10
+Social Media,25-34,Female,Trial,74
+Social Media,25-34,Male,Trial,42
+Social Media,25-34,Other,Trial,12
+Social Media,35-44,,Trial,7
+Social Media,35-44,Female,Trial,69
+Social Media,35-44,Male,Trial,49
+Social Media,35-44,Other,Trial,4
+Social Media,45+,,Trial,7
+Social Media,45+,Female,Trial,40
+Social Media,45+,Male,Trial,38
+Social Media,45+,Other,Trial,4

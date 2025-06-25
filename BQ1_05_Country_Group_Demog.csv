@@ -1,0 +1,7 @@
+country,flag,count(distinct user_id)
+Australia,https://flagcdn.com/w20/au.png,1702
+Canada,https://flagcdn.com/w20/ca.png,3546
+Germany,https://flagcdn.com/w20/de.png,7058
+UK,https://flagcdn.com/w20/gb.png,3482
+Ukraine,https://flagcdn.com/w20/ua.png,5252
+USA,https://flagcdn.com/w20/us.png,13960
