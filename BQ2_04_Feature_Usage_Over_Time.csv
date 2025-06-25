@@ -1,0 +1,289 @@
+activity_month,event_name,event_count
+2023-01-01 00:00:00.000,AI Chat Started,1303
+2023-01-01 00:00:00.000,App Opened,6383
+2023-01-01 00:00:00.000,Course Started,2555
+2023-01-01 00:00:00.000,Lesson Completed,2534
+2023-01-01 00:00:00.000,Mood Logged,2489
+2023-01-01 00:00:00.000,Premium Feature Used,1237
+2023-01-01 00:00:00.000,Routine Completed,1247
+2023-01-01 00:00:00.000,Routine Created,1299
+2023-01-01 00:00:00.000,Screen View,5040
+2023-01-01 00:00:00.000,Subscription cancelled,253
+2023-01-01 00:00:00.000,Subscription purchased,784
+2023-01-01 00:00:00.000,Subscription renewed,248
+2023-02-01 00:00:00.000,AI Chat Started,1143
+2023-02-01 00:00:00.000,App Opened,5589
+2023-02-01 00:00:00.000,Course Started,2235
+2023-02-01 00:00:00.000,Lesson Completed,2324
+2023-02-01 00:00:00.000,Mood Logged,2202
+2023-02-01 00:00:00.000,Premium Feature Used,1131
+2023-02-01 00:00:00.000,Routine Completed,1183
+2023-02-01 00:00:00.000,Routine Created,1146
+2023-02-01 00:00:00.000,Screen View,4469
+2023-02-01 00:00:00.000,Subscription cancelled,210
+2023-02-01 00:00:00.000,Subscription purchased,657
+2023-02-01 00:00:00.000,Subscription renewed,233
+2023-03-01 00:00:00.000,AI Chat Started,1290
+2023-03-01 00:00:00.000,App Opened,6339
+2023-03-01 00:00:00.000,Course Started,2616
+2023-03-01 00:00:00.000,Lesson Completed,2490
+2023-03-01 00:00:00.000,Mood Logged,2537
+2023-03-01 00:00:00.000,Premium Feature Used,1220
+2023-03-01 00:00:00.000,Routine Completed,1252
+2023-03-01 00:00:00.000,Routine Created,1321
+2023-03-01 00:00:00.000,Screen View,5129
+2023-03-01 00:00:00.000,Subscription cancelled,284
+2023-03-01 00:00:00.000,Subscription purchased,770
+2023-03-01 00:00:00.000,Subscription renewed,288
+2023-04-01 00:00:00.000,AI Chat Started,1208
+2023-04-01 00:00:00.000,App Opened,6057
+2023-04-01 00:00:00.000,Course Started,2462
+2023-04-01 00:00:00.000,Lesson Completed,2380
+2023-04-01 00:00:00.000,Mood Logged,2403
+2023-04-01 00:00:00.000,Premium Feature Used,1164
+2023-04-01 00:00:00.000,Routine Completed,1166
+2023-04-01 00:00:00.000,Routine Created,1195
+2023-04-01 00:00:00.000,Screen View,4776
+2023-04-01 00:00:00.000,Subscription cancelled,256
+2023-04-01 00:00:00.000,Subscription purchased,706
+2023-04-01 00:00:00.000,Subscription renewed,225
+2023-05-01 00:00:00.000,AI Chat Started,1241
+2023-05-01 00:00:00.000,App Opened,6359
+2023-05-01 00:00:00.000,Course Started,2575
+2023-05-01 00:00:00.000,Lesson Completed,2535
+2023-05-01 00:00:00.000,Mood Logged,2507
+2023-05-01 00:00:00.000,Premium Feature Used,1317
+2023-05-01 00:00:00.000,Routine Completed,1318
+2023-05-01 00:00:00.000,Routine Created,1226
+2023-05-01 00:00:00.000,Screen View,5245
+2023-05-01 00:00:00.000,Subscription cancelled,276
+2023-05-01 00:00:00.000,Subscription purchased,798
+2023-05-01 00:00:00.000,Subscription renewed,249
+2023-06-01 00:00:00.000,AI Chat Started,1211
+2023-06-01 00:00:00.000,App Opened,6177
+2023-06-01 00:00:00.000,Course Started,2427
+2023-06-01 00:00:00.000,Lesson Completed,2406
+2023-06-01 00:00:00.000,Mood Logged,2553
+2023-06-01 00:00:00.000,Premium Feature Used,1257
+2023-06-01 00:00:00.000,Routine Completed,1201
+2023-06-01 00:00:00.000,Routine Created,1247
+2023-06-01 00:00:00.000,Screen View,4940
+2023-06-01 00:00:00.000,Subscription cancelled,257
+2023-06-01 00:00:00.000,Subscription purchased,741
+2023-06-01 00:00:00.000,Subscription renewed,239
+2023-07-01 00:00:00.000,AI Chat Started,1321
+2023-07-01 00:00:00.000,App Opened,6450
+2023-07-01 00:00:00.000,Course Started,2601
+2023-07-01 00:00:00.000,Lesson Completed,2638
+2023-07-01 00:00:00.000,Mood Logged,2657
+2023-07-01 00:00:00.000,Premium Feature Used,1274
+2023-07-01 00:00:00.000,Routine Completed,1235
+2023-07-01 00:00:00.000,Routine Created,1333
+2023-07-01 00:00:00.000,Screen View,5096
+2023-07-01 00:00:00.000,Subscription cancelled,269
+2023-07-01 00:00:00.000,Subscription purchased,782
+2023-07-01 00:00:00.000,Subscription renewed,259
+2023-08-01 00:00:00.000,AI Chat Started,1348
+2023-08-01 00:00:00.000,App Opened,6494
+2023-08-01 00:00:00.000,Course Started,2547
+2023-08-01 00:00:00.000,Lesson Completed,2584
+2023-08-01 00:00:00.000,Mood Logged,2690
+2023-08-01 00:00:00.000,Premium Feature Used,1282
+2023-08-01 00:00:00.000,Routine Completed,1292
+2023-08-01 00:00:00.000,Routine Created,1376
+2023-08-01 00:00:00.000,Screen View,5378
+2023-08-01 00:00:00.000,Subscription cancelled,265
+2023-08-01 00:00:00.000,Subscription purchased,755
+2023-08-01 00:00:00.000,Subscription renewed,267
+2023-09-01 00:00:00.000,AI Chat Started,1177
+2023-09-01 00:00:00.000,App Opened,6112
+2023-09-01 00:00:00.000,Course Started,2374
+2023-09-01 00:00:00.000,Lesson Completed,2489
+2023-09-01 00:00:00.000,Mood Logged,2393
+2023-09-01 00:00:00.000,Premium Feature Used,1207
+2023-09-01 00:00:00.000,Routine Completed,1221
+2023-09-01 00:00:00.000,Routine Created,1245
+2023-09-01 00:00:00.000,Screen View,4937
+2023-09-01 00:00:00.000,Subscription cancelled,241
+2023-09-01 00:00:00.000,Subscription purchased,754
+2023-09-01 00:00:00.000,Subscription renewed,271
+2023-10-01 00:00:00.000,AI Chat Started,1250
+2023-10-01 00:00:00.000,App Opened,6452
+2023-10-01 00:00:00.000,Course Started,2622
+2023-10-01 00:00:00.000,Lesson Completed,2505
+2023-10-01 00:00:00.000,Mood Logged,2623
+2023-10-01 00:00:00.000,Premium Feature Used,1251
+2023-10-01 00:00:00.000,Routine Completed,1256
+2023-10-01 00:00:00.000,Routine Created,1257
+2023-10-01 00:00:00.000,Screen View,5185
+2023-10-01 00:00:00.000,Subscription cancelled,269
+2023-10-01 00:00:00.000,Subscription purchased,753
+2023-10-01 00:00:00.000,Subscription renewed,265
+2023-11-01 00:00:00.000,AI Chat Started,1180
+2023-11-01 00:00:00.000,App Opened,6049
+2023-11-01 00:00:00.000,Course Started,2351
+2023-11-01 00:00:00.000,Lesson Completed,2371
+2023-11-01 00:00:00.000,Mood Logged,2441
+2023-11-01 00:00:00.000,Premium Feature Used,1205
+2023-11-01 00:00:00.000,Routine Completed,1208
+2023-11-01 00:00:00.000,Routine Created,1200
+2023-11-01 00:00:00.000,Screen View,4806
+2023-11-01 00:00:00.000,Subscription cancelled,243
+2023-11-01 00:00:00.000,Subscription purchased,679
+2023-11-01 00:00:00.000,Subscription renewed,241
+2023-12-01 00:00:00.000,AI Chat Started,1336
+2023-12-01 00:00:00.000,App Opened,6336
+2023-12-01 00:00:00.000,Course Started,2564
+2023-12-01 00:00:00.000,Lesson Completed,2534
+2023-12-01 00:00:00.000,Mood Logged,2522
+2023-12-01 00:00:00.000,Premium Feature Used,1339
+2023-12-01 00:00:00.000,Routine Completed,1279
+2023-12-01 00:00:00.000,Routine Created,1250
+2023-12-01 00:00:00.000,Screen View,5134
+2023-12-01 00:00:00.000,Subscription cancelled,236
+2023-12-01 00:00:00.000,Subscription purchased,755
+2023-12-01 00:00:00.000,Subscription renewed,255
+2024-01-01 00:00:00.000,AI Chat Started,1287
+2024-01-01 00:00:00.000,App Opened,6217
+2024-01-01 00:00:00.000,Course Started,2465
+2024-01-01 00:00:00.000,Lesson Completed,2559
+2024-01-01 00:00:00.000,Mood Logged,2439
+2024-01-01 00:00:00.000,Premium Feature Used,1251
+2024-01-01 00:00:00.000,Routine Completed,1262
+2024-01-01 00:00:00.000,Routine Created,1259
+2024-01-01 00:00:00.000,Screen View,5027
+2024-01-01 00:00:00.000,Subscription cancelled,227
+2024-01-01 00:00:00.000,Subscription purchased,709
+2024-01-01 00:00:00.000,Subscription renewed,244
+2024-02-01 00:00:00.000,AI Chat Started,1215
+2024-02-01 00:00:00.000,App Opened,5731
+2024-02-01 00:00:00.000,Course Started,2361
+2024-02-01 00:00:00.000,Lesson Completed,2392
+2024-02-01 00:00:00.000,Mood Logged,2339
+2024-02-01 00:00:00.000,Premium Feature Used,1189
+2024-02-01 00:00:00.000,Routine Completed,1123
+2024-02-01 00:00:00.000,Routine Created,1181
+2024-02-01 00:00:00.000,Screen View,4806
+2024-02-01 00:00:00.000,Subscription cancelled,251
+2024-02-01 00:00:00.000,Subscription purchased,719
+2024-02-01 00:00:00.000,Subscription renewed,230
+2024-03-01 00:00:00.000,AI Chat Started,1285
+2024-03-01 00:00:00.000,App Opened,6340
+2024-03-01 00:00:00.000,Course Started,2502
+2024-03-01 00:00:00.000,Lesson Completed,2560
+2024-03-01 00:00:00.000,Mood Logged,2550
+2024-03-01 00:00:00.000,Premium Feature Used,1285
+2024-03-01 00:00:00.000,Routine Completed,1319
+2024-03-01 00:00:00.000,Routine Created,1257
+2024-03-01 00:00:00.000,Screen View,5039
+2024-03-01 00:00:00.000,Subscription cancelled,275
+2024-03-01 00:00:00.000,Subscription purchased,815
+2024-03-01 00:00:00.000,Subscription renewed,237
+2024-04-01 00:00:00.000,AI Chat Started,1246
+2024-04-01 00:00:00.000,App Opened,6499
+2024-04-01 00:00:00.000,Course Started,2448
+2024-04-01 00:00:00.000,Lesson Completed,2581
+2024-04-01 00:00:00.000,Mood Logged,2665
+2024-04-01 00:00:00.000,Premium Feature Used,1195
+2024-04-01 00:00:00.000,Routine Completed,1248
+2024-04-01 00:00:00.000,Routine Created,1179
+2024-04-01 00:00:00.000,Screen View,5194
+2024-04-01 00:00:00.000,Subscription cancelled,270
+2024-04-01 00:00:00.000,Subscription purchased,740
+2024-04-01 00:00:00.000,Subscription renewed,231
+2024-05-01 00:00:00.000,AI Chat Started,1297
+2024-05-01 00:00:00.000,App Opened,6231
+2024-05-01 00:00:00.000,Course Started,2529
+2024-05-01 00:00:00.000,Lesson Completed,2445
+2024-05-01 00:00:00.000,Mood Logged,2503
+2024-05-01 00:00:00.000,Premium Feature Used,1273
+2024-05-01 00:00:00.000,Routine Completed,1305
+2024-05-01 00:00:00.000,Routine Created,1218
+2024-05-01 00:00:00.000,Screen View,5090
+2024-05-01 00:00:00.000,Subscription cancelled,276
+2024-05-01 00:00:00.000,Subscription purchased,709
+2024-05-01 00:00:00.000,Subscription renewed,253
+2024-06-01 00:00:00.000,AI Chat Started,1209
+2024-06-01 00:00:00.000,App Opened,6291
+2024-06-01 00:00:00.000,Course Started,2466
+2024-06-01 00:00:00.000,Lesson Completed,2534
+2024-06-01 00:00:00.000,Mood Logged,2452
+2024-06-01 00:00:00.000,Premium Feature Used,1273
+2024-06-01 00:00:00.000,Routine Completed,1212
+2024-06-01 00:00:00.000,Routine Created,1297
+2024-06-01 00:00:00.000,Screen View,4949
+2024-06-01 00:00:00.000,Subscription cancelled,223
+2024-06-01 00:00:00.000,Subscription purchased,719
+2024-06-01 00:00:00.000,Subscription renewed,246
+2024-07-01 00:00:00.000,AI Chat Started,1181
+2024-07-01 00:00:00.000,App Opened,6067
+2024-07-01 00:00:00.000,Course Started,2401
+2024-07-01 00:00:00.000,Lesson Completed,2449
+2024-07-01 00:00:00.000,Mood Logged,2422
+2024-07-01 00:00:00.000,Premium Feature Used,1222
+2024-07-01 00:00:00.000,Routine Completed,1230
+2024-07-01 00:00:00.000,Routine Created,1268
+2024-07-01 00:00:00.000,Screen View,4972
+2024-07-01 00:00:00.000,Subscription cancelled,263
+2024-07-01 00:00:00.000,Subscription purchased,750
+2024-07-01 00:00:00.000,Subscription renewed,222
+2024-08-01 00:00:00.000,AI Chat Started,1276
+2024-08-01 00:00:00.000,App Opened,6251
+2024-08-01 00:00:00.000,Course Started,2601
+2024-08-01 00:00:00.000,Lesson Completed,2501
+2024-08-01 00:00:00.000,Mood Logged,2577
+2024-08-01 00:00:00.000,Premium Feature Used,1292
+2024-08-01 00:00:00.000,Routine Completed,1299
+2024-08-01 00:00:00.000,Routine Created,1287
+2024-08-01 00:00:00.000,Screen View,5133
+2024-08-01 00:00:00.000,Subscription cancelled,246
+2024-08-01 00:00:00.000,Subscription purchased,799
+2024-08-01 00:00:00.000,Subscription renewed,273
+2024-09-01 00:00:00.000,AI Chat Started,1156
+2024-09-01 00:00:00.000,App Opened,6325
+2024-09-01 00:00:00.000,Course Started,2439
+2024-09-01 00:00:00.000,Lesson Completed,2435
+2024-09-01 00:00:00.000,Mood Logged,2470
+2024-09-01 00:00:00.000,Premium Feature Used,1245
+2024-09-01 00:00:00.000,Routine Completed,1245
+2024-09-01 00:00:00.000,Routine Created,1257
+2024-09-01 00:00:00.000,Screen View,4888
+2024-09-01 00:00:00.000,Subscription cancelled,240
+2024-09-01 00:00:00.000,Subscription purchased,721
+2024-09-01 00:00:00.000,Subscription renewed,244
+2024-10-01 00:00:00.000,AI Chat Started,1286
+2024-10-01 00:00:00.000,App Opened,6379
+2024-10-01 00:00:00.000,Course Started,2575
+2024-10-01 00:00:00.000,Lesson Completed,2592
+2024-10-01 00:00:00.000,Mood Logged,2443
+2024-10-01 00:00:00.000,Premium Feature Used,1252
+2024-10-01 00:00:00.000,Routine Completed,1329
+2024-10-01 00:00:00.000,Routine Created,1208
+2024-10-01 00:00:00.000,Screen View,4871
+2024-10-01 00:00:00.000,Subscription cancelled,251
+2024-10-01 00:00:00.000,Subscription purchased,730
+2024-10-01 00:00:00.000,Subscription renewed,247
+2024-11-01 00:00:00.000,AI Chat Started,1213
+2024-11-01 00:00:00.000,App Opened,6144
+2024-11-01 00:00:00.000,Course Started,2444
+2024-11-01 00:00:00.000,Lesson Completed,2362
+2024-11-01 00:00:00.000,Mood Logged,2432
+2024-11-01 00:00:00.000,Premium Feature Used,1246
+2024-11-01 00:00:00.000,Routine Completed,1281
+2024-11-01 00:00:00.000,Routine Created,1285
+2024-11-01 00:00:00.000,Screen View,4826
+2024-11-01 00:00:00.000,Subscription cancelled,267
+2024-11-01 00:00:00.000,Subscription purchased,767
+2024-11-01 00:00:00.000,Subscription renewed,242
+2024-12-01 00:00:00.000,AI Chat Started,1232
+2024-12-01 00:00:00.000,App Opened,6189
+2024-12-01 00:00:00.000,Course Started,2512
+2024-12-01 00:00:00.000,Lesson Completed,2434
+2024-12-01 00:00:00.000,Mood Logged,2541
+2024-12-01 00:00:00.000,Premium Feature Used,1270
+2024-12-01 00:00:00.000,Routine Completed,1203
+2024-12-01 00:00:00.000,Routine Created,1304
+2024-12-01 00:00:00.000,Screen View,4991
+2024-12-01 00:00:00.000,Subscription cancelled,223
+2024-12-01 00:00:00.000,Subscription purchased,745
+2024-12-01 00:00:00.000,Subscription renewed,221
