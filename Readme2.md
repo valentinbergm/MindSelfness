@@ -112,10 +112,12 @@ C. **Continuous Monitoring:** Regularly monitor these segment-specific monthly r
 **Observation:** The application experiences consistent monthly premium conversions, typically ranging from **650 to 800 per month**, reflecting a steady influx of new paying users. Concurrently, there are significant monthly volumes of subscription renewals and cancellations. On visualization, **subscription renewals and cancellations show a notable visual interdependence: peaks and troughs in renewals often coincide with or are closely followed by similar movements in cancellations.** This strong visual correlation suggests that the factors influencing users' decision to continue or discontinue their subscription are closely linked, indicating a dynamic and highly sensitive stage of the user lifecycle for monetization.
 
 **Visual Aid 5.1:** (Screenshot of "Monthly Premium Conversions" chart from Power BI)
-![image](https://github.com/user-attachments/assets/fbd396b9-0c6b-471b-b130-06198e4b0cff)
+![image](https://github.com/user-attachments/assets/e12044d4-d2a8-4b62-9fd6-726abe746463)
+
 
 **Visual Aid 5.2:** (Screenshot of "Monthly Subscription Changes: Renewals vs Cancellations" chart from Power BI)
-![image](https://github.com/user-attachments/assets/46703e48-15c2-4387-bf34-17c8f4a643d3)
+![image](https://github.com/user-attachments/assets/e733b1da-f623-4704-a5d6-279d777a8e23)
+
 
 **Business Impact:** Understanding the individual trends of new conversions, as well as the tightly linked dynamics of renewals and cancellations, is vital for optimizing monetization strategies. The strong visual correlation between renewals and cancellations suggests that efforts to boost renewals or improve subscriber satisfaction in a given month could have a direct, almost immediate, impact on reducing cancellations. This reinforces the need for robust, proactive retention strategies that closely monitor the post-renewal experience.
 
