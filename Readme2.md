@@ -44,7 +44,7 @@ This section presents key analytical insights supported by relevant data visuali
 
 **Observation:** The application demonstrates consistent month-over-month growth in new user registrations. Notably, significant peaks were observed in **May 2023, October 2023, and July 2024**, indicating successful acquisition campaigns or seasonal trends during these periods. This steady growth is crucial for the continuous expansion of the user base.
 
-**Visual Aid 1:** (Screenshot of "Monthly Registrations" chart from Power BI/Tableau)
+**Visual Aid 1:** (Screenshot of "Monthly Registrations" chart from Power BI)
 ![image](https://github.com/user-attachments/assets/d38bb9a8-0c25-489f-9e83-702fb862f0fe)
 
 
@@ -61,7 +61,7 @@ C. **Forecast Growth:** Use historical registration data, particularly patterns 
 
 **Observation:** The analysis of user acquisition channels confirms that **Organic and Paid Ads are the primary drivers of new user growth**, collectively contributing to almost **80%** of all registrations. Referral and Social Media channels, while present, play a significantly smaller role in the overall acquisition mix.
 
-**Visual Aid 2:** (Screenshot of "User Acquisition by Channel" treemap from Power BI/Tableau)
+**Visual Aid 2:** (Screenshot of "User Acquisition by Channel" treemap from Power BI)
 ![image](https://github.com/user-attachments/assets/de553b36-4b5b-4f57-aa68-2fe4bc8bdb33)
 
 **Business Impact:** Concentrating acquisition efforts on the most effective channels (Organic and Paid Ads) ensures efficient allocation of marketing resources. However, over-reliance on a few channels could pose a risk if market dynamics shift or competition intensifies within those channels. Diversification may be considered for long-term stability.
@@ -153,7 +153,7 @@ D. **Re-evaluate Lower-Converting Segments:** Analyze reasons for lower conversi
 ## 5\. Tools & Technologies
 
   * **Data Analysis & Transformation:** ) Excel / SQL
-  * **Data Visualization & Dashboarding:** Power BI / 
+  * **Data Visualization & Dashboarding:** Power BI
   * **Version Control:** Git / GitHub
 
 ## 6\. Conclusion & Recommendations
