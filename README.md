@@ -53,7 +53,9 @@ This section presents key analytical insights supported by relevant data visuali
 
 **Recommendation:**
 A. **Analyze Peak Drivers:** Conduct a deeper dive into the specific marketing campaigns, product updates, or external events that coincided with the registration peaks in May, October 2023, and July 2024.
+
 B. **Optimize Acquisition Spend:** Allocate marketing budget strategically to channels and periods that historically yield the highest volume of new registrations.
+
 C. **Forecast Growth:** Use historical registration data, particularly patterns from peak months, to build more accurate growth forecasts and resource planning.
 
 -----
