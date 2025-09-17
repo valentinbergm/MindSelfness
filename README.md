@@ -60,7 +60,9 @@ C. **Forecast Growth:** Use historical registration data, particularly patterns 
 
 -----
 
-### **Specific Insight 2: User Acquisition is Heavily Dominated by Organic and Paid Ad Channels, Accounting for Nearly 80% of New Users.**
+### **Specific Insight 2: 
+
+User Acquisition is Heavily Dominated by Organic and Paid Ad Channels, Accounting for Nearly 80% of New Users.**
 
 **Observation:** The analysis of user acquisition channels confirms that **Organic and Paid Ads are the primary drivers of new user growth**, collectively contributing to almost **80%** of all registrations. Referral and Social Media channels, while present, play a significantly smaller role in the overall acquisition mix.
 
@@ -92,7 +94,9 @@ C. **Identify Drop-off Triggers:** Analyze user behavior leading up to the Day 1
 
 -----
 
-### **Specific Insight 4: Monthly Retention Rates Indicate Consistently Higher Performance for Older Users and Males Across Registration Cohorts.**
+### **Specific Insight 4:
+
+Monthly Retention Rates Indicate Consistently Higher Performance for Older Users and Males Across Registration Cohorts.**
 
 **Observation:** The analysis of monthly retention rates across various registration cohorts reveals a discernible pattern: **Older users (45+) and male users consistently tend to achieve higher retention percentages** compared to their younger or female/other counterparts. While month-to-month fluctuations exist for all groups, the scatter plots visually demonstrate that data points for these segments are generally positioned higher on the retention rate scale. This indicates that, on a monthly basis, these groups exhibit a more robust user engagement.
 
@@ -111,7 +115,9 @@ C. **Continuous Monitoring:** Regularly monitor these segment-specific monthly r
 
 -----
 
-### **Specific Insight 5: Monthly Premium Conversions Show Stable Growth, While Subscription Renewals and Cancellations Exhibit a Stronger Interdependence, Highlighting Dynamic Monetization Lifecycle.**
+### **Specific Insight 5: 
+
+Monthly Premium Conversions Show Stable Growth, While Subscription Renewals and Cancellations Exhibit a Stronger Interdependence, Highlighting Dynamic Monetization Lifecycle.**
 
 **Observation:** The application experiences consistent monthly premium conversions, typically ranging from **650 to 800 per month**, reflecting a steady influx of new paying users. Concurrently, there are significant monthly volumes of subscription renewals and cancellations. On visualization, **subscription renewals and cancellations show a notable visual interdependence: peaks and troughs in renewals often coincide with or are closely followed by similar movements in cancellations.** This strong visual correlation suggests that the factors influencing users' decision to continue or discontinue their subscription are closely linked, indicating a dynamic and highly sensitive stage of the user lifecycle for monetization.
 
